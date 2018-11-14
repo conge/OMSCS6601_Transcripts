@@ -4,7 +4,9 @@
 
 ## Title 02 - Intro to Logic and Planning - lang_en_vs52.
 
-In this next section, Peter will teach us about logic and planning. Peter, what important concepts should our students look out for? &gt;&gt; A logic is a way of describing the world. When we make logical statements, we capture part of what we want to know about the world and ignore other parts. Any description is only partial. The beauty of logic is that once we've made some statements about the world we can then reason completely within the logic without having to go back to reference the world to come to some conclusions. And we're guaranteed that, to the extent the original statements correctly represent the world, so too will the conclusions be correct. On the other hand, if you start with something false then logic will lead you to conclude more false things. 
+In this next section, Peter will teach us about logic and planning. Peter, what important concepts should our students look out for? 
+
+&gt;&gt; A logic is a way of describing the world. When we make logical statements, we capture part of what we want to know about the world and ignore other parts. Any description is only partial. The beauty of logic is that once we've made some statements about the world we can then reason completely within the logic without having to go back to reference the world to come to some conclusions. And we're guaranteed that, to the extent the original statements correctly represent the world, so too will the conclusions be correct. On the other hand, if you start with something false then logic will lead you to conclude more false things. 
 
 
 ## Title 03 - Situation Calculus 3 - lang_en_vs1.
